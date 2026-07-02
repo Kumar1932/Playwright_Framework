@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","35183","Add single product and remove from cart","chromium","2026-04-27","passed","2026-04-27","","AICreatedTest.spec.js","",""
+"","36014","Add multiple products to cart and verify them","chromium","2026-04-27","passed","2026-04-27","","AICreatedTest.spec.js","",""

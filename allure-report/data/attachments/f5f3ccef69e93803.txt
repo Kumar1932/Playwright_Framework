@@ -1,0 +1,8 @@
+✓ Successfully added "ADIDAS ORIGINAL" to cart
+✓ Successfully added "iphone 13 pro" to cart
+✓ Successfully added "ZARA COAT 3" to cart
+✓ Verified "ADIDAS ORIGINAL" is in the cart
+✓ Verified "iphone 13 pro" is in the cart
+✓ Verified "ZARA COAT 3" is in the cart
+
+✓ Test completed: 3 items in cart

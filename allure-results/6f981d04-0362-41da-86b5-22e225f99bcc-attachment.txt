@@ -1,0 +1,4 @@
+✓ Added "ADIDAS ORIGINAL" to cart
+✓ Verified "ADIDAS ORIGINAL" is in the cart
+✓ Removed "ADIDAS ORIGINAL" from cart
+✓ Verified "ADIDAS ORIGINAL" is no longer in the cart
