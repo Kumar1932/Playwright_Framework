@@ -1,4 +1,4 @@
-import {test,exect} from "../../GenericUtility/BaseClass.js";
+import {test,expect} from "../../GenericUtility/BaseClass.js";
 import {CartPage} from "../../ObjectRepository/index.js";
 
 test("Add product to cart and verify in cart page",async ({page})=>{
